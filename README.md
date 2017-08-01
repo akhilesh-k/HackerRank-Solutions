@@ -7,7 +7,16 @@ I've created this repository to learn about algorithms. I am adding solutions co
 **Algorithms,  Data Structures** and **Statistics Problems and Solutions** are provided so far.  
 
 ### Questions  
-Here are questions divided by difficulty level:  
+Here are questions divided by difficulty level:  <br>
+**Implementation**
+[Solve Me First](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/SolveMeFirst.c)<br>
+[Simple Array Sum](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/SimpleArraySum.c)<br>
+[Angry Professor](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/angryprofessor.c)<br>
+[Grading Students](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/gradingstudents.cpp)<br>
+[Kangaroo](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/kangaroo.c)<br>
+[Utopian Tree](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/utopiantree.c)<br>
+[Viral Advertising](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/viraladvertising.c)<br>
+
 
 ## Contribute
 
