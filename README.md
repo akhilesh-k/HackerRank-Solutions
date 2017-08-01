@@ -8,7 +8,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 
 ### Questions  
 Here are questions divided by difficulty level:  <br>
-**Implementation**
+**Implementation**<br>
 [Solve Me First](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/SolveMeFirst.c)<br>
 [Simple Array Sum](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/SimpleArraySum.c)<br>
 [Angry Professor](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/angryprofessor.c)<br>
