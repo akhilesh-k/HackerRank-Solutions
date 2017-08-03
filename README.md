@@ -11,6 +11,7 @@ Here are questions divided by difficulty level:  <br>
 **Implementation**<br>
 - [Solve Me First](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/SolveMeFirst.c)<br>
 - [Apple and Oranges](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/apple%26oranges.c)<br>
+- [Breaking the Records](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/breakingtherecords.py)<br>
 - [Simple Array Sum](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/SimpleArraySum.c)<br>
 - [Angry Professor](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/angryprofessor.c)<br>
 - [Grading Students](https://github.com/akhilesh-k/HackerRank-Solutions/blob/master/gradingstudents.cpp)<br>
