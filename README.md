@@ -6,6 +6,18 @@ I've created this repository to learn about algorithms. I am adding solutions co
 
 **Algorithms,  Data Structures** and **Statistics Problems and Solutions** are provided so far.  
 
+## Contents
+
+- [What is it?](#what-is-it)
+- [How to use it](#how-to-use-it)
+- [Follow me](#follow-me)
+- [Algorithms](#algorithm)
+- [Data Structures](#data-structures)
+- [Statistics](#statistics)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Linux Shell](#linux-shell)
+- [Mathematics](#mathematics)
+
 ### Questions  
 Here are questions divided by difficulty level:  <br>
 **Implementation**<br>
